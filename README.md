@@ -2,7 +2,7 @@
 
 **`Game Developer`**
 
-I'm Guilherme Alves Aniceto, I'm 19 years old and I'm from the West Zone of São Paulo, where I was born and raised. I completed high school and the technical course in Electrotechnics at ETEC Jaraguá, an experience that even gave me international recognition. Currently, I am a Digital Games student at PUC-SP, where I bring my ideas to life and turn them into playable experiences through programming. In addition, I share my creations and processes in lives on "[Youtube](https://www.youtube.com/channel/UC64cmfMMFpsJkDOfcJs8K1w)" and "[Twitch](https://www.twitch.tv/s4lev)" showing what I do and how I develop my projects.
+I'm Guilherme Alves Aniceto, I'm 19 years old and I'm from the Northwest Zone of São Paulo, where I was born and raised. I completed high school and the technical course in Electrotechnics at ETEC Jaraguá, an experience that even gave me international recognition. Currently, I am a Digital Games student at PUC-SP, where I bring my ideas to life and turn them into playable experiences through programming. In addition, I share my creations and processes in lives on "[Youtube](https://www.youtube.com/channel/UC64cmfMMFpsJkDOfcJs8K1w)" and "[Twitch](https://www.twitch.tv/s4lev)" showing what I do and how I develop my projects.
 <br/>
 <p align="left">
   <a href="https://www.youtube.com/@S4LeV?sub_confirmation=1">
