@@ -35,7 +35,8 @@ I'm Guilherme Alves Aniceto, I'm 19 years old and I'm from the West Zone of São
   </a>
 </p>
 
----
+<br/>
+
 
 ### 🤖 Languages and Technologies
 
@@ -95,7 +96,6 @@ I'm Guilherme Alves Aniceto, I'm 19 years old and I'm from the West Zone of São
 ### 🏆 Stats      
 
 <p>
-  <div style="display: flex; align-items: center;">
     <img
       align="left"
       alt="GitHub Stats"
@@ -103,12 +103,4 @@ I'm Guilherme Alves Aniceto, I'm 19 years old and I'm from the West Zone of São
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api?username=SaLeVs&show_icons=true&theme=dark&include_all_comits=true"
     />
-    <img
-      align="left"
-      alt="GitHub Stats"
-      height="200"
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaLeVs&theme=dark&layout=compact&langs_count=6"
-    />
-  </div>
-</p>
+    
