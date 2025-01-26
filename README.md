@@ -107,5 +107,6 @@ I'm Guilherme Alves Aniceto, I'm 19 years old and I'm from the West Zone of São
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaLeVs&theme=dark&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaLeVs&theme=dark&layout=compact&langs_count=6"
   />
+</p>
